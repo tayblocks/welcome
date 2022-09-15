@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spigot API & Bungeecord API**
 
-- ⚡ Fun fact **i am cool**
+- ⚡ Fun fact **I am cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
